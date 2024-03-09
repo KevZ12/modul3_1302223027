@@ -1,0 +1,10 @@
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\bin\Debug\Kevin Albany_1302223027.exe.config
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\bin\Debug\Kevin Albany_1302223027.exe
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\bin\Debug\Kevin Albany_1302223027.pdb
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\obj\Debug\Kevin Albany_1302223027.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\obj\Debug\Kevin_Albany_1302223027.Form1.resources
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\obj\Debug\Kevin_Albany_1302223027.Properties.Resources.resources
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\obj\Debug\Kevin Albany_1302223027.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\obj\Debug\Kevin Albany_1302223027.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\obj\Debug\Kevin Albany_1302223027.exe
+C:\Users\PRAKTIKAN\Downloads\Kevin Albany_1302223027\Kevin Albany_1302223027\obj\Debug\Kevin Albany_1302223027.pdb
